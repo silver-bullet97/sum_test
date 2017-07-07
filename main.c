@@ -3,6 +3,8 @@
 
 int main(){
 	int re = 0;
-	re =sum(100);
+	int n = 100;
+	re = sum(n);
+	printf("%d \n", re);
 	return 0;
 }
